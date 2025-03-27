@@ -103,5 +103,4 @@ int main() {
 ## Conclusion
 The **Boyer-Moore Voting Algorithm** is an elegant and efficient way to determine the majority element in an array. It is widely used due to its **linear runtime** and **constant space usage**.
 
-🚀 Happy Coding!
 
